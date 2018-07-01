@@ -1,0 +1,15 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout:     post
+author:     Jerry Zhao
+title:      "guitar pro安装指南"
+permalink: /:title/
+date:       2018-07-01 20:26:35
+tags: categories
+
+---
+#+END_EXPORT
+
+* 今天这里测试一下
+
