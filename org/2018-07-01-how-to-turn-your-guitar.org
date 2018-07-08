@@ -15,13 +15,11 @@ tags: 调音
 
 第一步： 下载调音软件app (叫做 guitar tuna) ios 和 android 都可以在在线商店里下载
 在商店搜索guitar tuna 即可，看到如下图界面显示即可下载了：
-#+ATTR_HTML: :width 40% :height 40%  
-[[/img/appstore-guitartuna.jpeg]]
+[[../img/appstore-guitartuna.jpeg]]
 
 
 第二步： 打开 app 后点击中间的 tuner 开始调音
 这个步骤你需要同时拿起你的吉它从第一根弦开始拨，guitar tuna 会自动检测你刚才拨动吉它的第一弦的声音是高了还是低了
-#+ATTR_HTML: :width 40% :height 40%  
 [[/img/guitar-tune-e.jpeg]]
 
 第三步： 正式调节弦的高低
